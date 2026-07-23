@@ -1,0 +1,41 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# temp node scripts
+revert_to_novanest.js
+rebrand_to_meridian.js
+rebrand_remaining_references.js
+fix_earbuds_image.js
+fix_missing_product_images.js
+rename_brand_catalog.js
+fetch_pexels_photos.js
+download_verified_pexels_images.js
+download_images.js
