@@ -173,8 +173,8 @@ git push -u origin main
 
 ---
 
-## 💖 A Heartfelt Thank You for Visiting!
+## 💖 A Heartfelt Thank You for Visiting! 🙏✨
 
-A sincere thank you for taking your precious time to explore my GitHub space and review the **Meridian Living** project. In a world full of code, your decision to stop by, inspect the architecture, and appreciate the design means the world to me. Every detail here reflects genuine passion and a constant effort to learn and grow.
+A sincere thank you 🌸 for taking your precious time ⏳ to explore my GitHub space 💻 and review the **Meridian Living** project 🏛️✨. In a world full of code, your decision to stop by, inspect the architecture 📐, and appreciate the design 🎨 means the world to me 🌏. Every detail here reflects genuine passion ❤️‍🔥 and a constant effort to learn, create, and grow 🚀.
 
-Your support and attention are deeply appreciated. If this repository inspired you or brought value to your day, leaving a ⭐ star would mean so much. Thank you for your kindness, encouragement, and time. May your own journey be filled with creativity, joy, and endless success! ✨🌈
+Your support and attention are deeply appreciated 🤝. If this repository inspired you 🌟 or brought value to your day ☀️, leaving a ⭐ star would mean so much 💫. Thank you for your kindness 🌺, encouragement 💬, and time ⌛. May your own journey be filled with creativity 🎨, joy 😊, and endless success 🏆! ✨🌈🎉
