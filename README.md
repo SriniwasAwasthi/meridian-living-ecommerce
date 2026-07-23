@@ -5,6 +5,22 @@
 
 ---
 
+## 📸 Storefront UI Screenshots & Previews
+
+| Homepage Landing Hero | Shop The Look Interactive Canvas |
+| :---: | :---: |
+| ![Homepage Hero](public/images/screenshots/homepage.png) | ![Shop The Look](public/images/screenshots/shop_the_look.png) |
+
+| Bundle & Save Studio | Nova AI Personal Shopper |
+| :---: | :---: |
+| ![Bundle Studio](public/images/screenshots/bundle_studio.png) | ![AI Concierge](public/images/screenshots/ai_concierge.png) |
+
+| Product Detail Page |
+| :---: |
+| ![Product Detail Page](public/images/screenshots/product_detail.png) |
+
+---
+
 ## 🌟 Highlights & Features
 
 ### 🛍️ Curated 90-Piece Product Catalog

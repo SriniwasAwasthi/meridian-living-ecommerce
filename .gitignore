@@ -39,3 +39,4 @@ rename_brand_catalog.js
 fetch_pexels_photos.js
 download_verified_pexels_images.js
 download_images.js
+copy_screenshots.js
