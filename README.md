@@ -181,19 +181,21 @@ Your support and attention are deeply appreciated 🤝. If this repository inspi
 
 ---
 
-## 💖 Thank You for Visiting!
+---
 
-> *"Thank you so much for taking the time to explore Meridian Living E-Commerce!"* 🌟
+## 💖 Thank You for Exploring Meridian Living!
 
-Taking your precious time to inspect this project, walk through the features, and review my code means the world to me. Every single repository I build is an opportunity to learn, innovate, and push the boundaries of software engineering.
+> *"Where modern e-commerce meets immersive luxury design."* 🏛️
 
-- 🌟 **Enjoyed the project?** Feel free to leave a **Star** on this repository—your support provides immense motivation to keep building exciting projects!
-- 📬 **Let's Connect:** I am always open to constructive feedback, technical discussions, and exciting engineering opportunities. Feel free to explore my other repositories or connect with me directly on [GitHub](https://github.com/SriniwasAwasthi).
+Thank you for taking your valuable time to inspect Meridian Living! Designing interactive 3D room scenes, custom bundle discounts, and an AI-driven shopping assistant was an exciting challenge in modern digital commerce and frontend architecture. Your visit is truly appreciated.
 
-*Wishing you a wonderful day ahead, and thank you once again for stopping by!* ✨
+- 🌟 **Liked the shopping experience & UI?** Please consider giving this repository a star!
+- 📬 **Let's Connect:** I am eager to exchange ideas on luxury digital retail, high-performance UI engineering, and scalable web apps. Find me on [GitHub](https://github.com/SriniwasAwasthi).
+
+*Wishing you timeless elegance and a wonderful day ahead!* ✨
 
 ---
 
 <div align="center">
-  <sub>Crafted with passion by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+  <sub>Designed with passion for luxury e-commerce by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
