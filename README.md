@@ -53,6 +53,17 @@
 
 ---
 
+## 🏛️ System Architecture
+
+```mermaid
+graph LR
+    Buyer["👤 Shopper"] --> Catalog["🏛️ Meridian Living Catalog"]
+    Catalog --> Rooms["🛋️ 3D Interactive Room Visualizer"]
+    Catalog --> Cart["🛒 Smart Bundle Builder & Cart"]
+    Catalog --> AIAssist["🤖 AI Interior Design Assistant"]
+    Catalog --> Checkout["💳 Secure Checkout Flow"]
+```
+
 ## 🛠️ Technology Stack
 
 - **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
@@ -173,40 +184,16 @@ git push -u origin main
 
 ---
 
-## 💖 A Heartfelt Thank You for Visiting! 🙏✨
-
-A sincere thank you 🌸 for taking your precious time ⏳ to explore my GitHub space 💻 and review the **Meridian Living** project 🏛️✨. In a world full of code, your decision to stop by, inspect the architecture 📐, and appreciate the design 🎨 means the world to me 🌏. Every detail here reflects genuine passion ❤️‍🔥 and a constant effort to learn, create, and grow 🚀.
-
-Your support and attention are deeply appreciated 🤝. If this repository inspired you 🌟 or brought value to your day ☀️, leaving a ⭐ star would mean so much 💫. Thank you for your kindness 🌺, encouragement 💬, and time ⌛. May your own journey be filled with creativity 🎨, joy 😊, and endless success 🏆! ✨🌈🎉
-
 ---
 
----
+## 💖 Thank You for Visiting & Exploring 🏛️ Meridian Living — Luxury E-Commerce Platform!
 
-## 💖 Thank You for Exploring Meridian Living!
+> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
 
-> *"Where modern e-commerce meets immersive luxury design."* 🏛️
-
-Thank you for taking your valuable time to inspect Meridian Living! Designing interactive 3D room scenes, custom bundle discounts, and an AI-driven shopping assistant was an exciting challenge in modern digital commerce and frontend architecture. Your visit is truly appreciated.
-
-- 🌟 **Liked the shopping experience & UI?** Please consider giving this repository a star!
-- 📬 **Let's Connect:** I am eager to exchange ideas on luxury digital retail, high-performance UI engineering, and scalable web apps. Find me on [GitHub](https://github.com/SriniwasAwasthi).
-
-*Wishing you timeless elegance and a wonderful day ahead!* ✨
+* 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
+* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com).
 
 ---
-
 <div align="center">
-  <sub>Designed with passion for luxury e-commerce by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+  <sub>Designed & Crafted with Passion by <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a> • Continuous Learner & Software Engineer</sub>
 </div>
-
-## 🏛️ E-Commerce Architecture
-
-```mermaid
-graph LR
-    Buyer["👤 Shopper"] --> Catalog["🏛️ Meridian Living Catalog"]
-    Catalog --> Rooms["🛋️ 3D Interactive Room Visualizer"]
-    Catalog --> Cart["🛒 Smart Bundle Builder & Cart"]
-    Catalog --> AIAssist["🤖 AI Interior Design Assistant"]
-    Catalog --> Checkout["💳 Secure Checkout Flow"]
-```
