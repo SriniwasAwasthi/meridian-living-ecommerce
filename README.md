@@ -199,3 +199,14 @@ Thank you for taking your valuable time to inspect Meridian Living! Designing in
 <div align="center">
   <sub>Designed with passion for luxury e-commerce by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
+
+## 🏛️ E-Commerce Architecture
+
+```mermaid
+graph LR
+    Buyer["👤 Shopper"] --> Catalog["🏛️ Meridian Living Catalog"]
+    Catalog --> Rooms["🛋️ 3D Interactive Room Visualizer"]
+    Catalog --> Cart["🛒 Smart Bundle Builder & Cart"]
+    Catalog --> AIAssist["🤖 AI Interior Design Assistant"]
+    Catalog --> Checkout["💳 Secure Checkout Flow"]
+```
