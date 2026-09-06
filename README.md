@@ -139,7 +139,7 @@ npm install
 ```bash
 npm run dev
 ```
-Open your browser to the local development server address to explore the application.
+Open [http://localhost:3000](http://localhost:3000) in your browser to explore the live application.
 
 ---
 
@@ -147,7 +147,7 @@ Open your browser to the local development server address to explore the applica
 
 | Command | Description |
 | :--- | :--- |
-| `npm run dev` | Launches Next.js local development server |
+| `npm run dev` | Launches Next.js local development server at `http://localhost:3000` |
 | `npm run build` | Compiles production bundle |
 | `npm run start` | Starts production server |
 | `npm run typecheck` | Executes TypeScript type safety checks (`tsc --noEmit`) |
