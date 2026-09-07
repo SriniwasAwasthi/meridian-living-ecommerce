@@ -126,8 +126,8 @@ Make sure you have **Node.js 18+** installed on your system.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/meridian-living.git
-cd meridian-living
+git clone https://github.com/SriniwasAwasthi/meridian-living-ecommerce.git
+cd meridian-living-ecommerce
 ```
 
 ### 2. Install Dependencies
@@ -139,7 +139,6 @@ npm install
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser to explore the live application.
 
 ---
 
@@ -147,35 +146,11 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to explore t
 
 | Command | Description |
 | :--- | :--- |
-| `npm run dev` | Launches Next.js local development server at `http://localhost:3000` |
+| `npm run dev` | Launches Next.js local development server |
 | `npm run build` | Compiles production bundle |
 | `npm run start` | Starts production server |
 | `npm run typecheck` | Executes TypeScript type safety checks (`tsc --noEmit`) |
 | `npm run lint` | Runs Next.js ESLint checks |
-
----
-
-## 📤 Pushing Code to GitHub
-
-Follow these standard commands to initialize Git and push to your GitHub repository:
-
-```bash
-# 1. Initialize git (if not already initialized)
-git init
-
-# 2. Add all files
-git add .
-
-# 3. Create initial commit
-git commit -m "feat: complete luxury storefront implementation for Meridian Living"
-
-# 4. Set main branch and remote URL
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-
-# 5. Push code to GitHub
-git push -u origin main
-```
 
 ---
 
@@ -184,11 +159,9 @@ git push -u origin main
 
 ---
 
----
-
 ## 💖 Thank You for Visiting & Exploring 🏛️ Meridian Living — Luxury E-Commerce Platform!
 
-> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+> *\"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey.\"* 🚀
 
 * 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
 * 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com)
